@@ -1,0 +1,9 @@
+{
+  "dataLabel": "Gib die Daten hier ein",
+  "generateLabel": "QR Code generieren",
+  "codeLabel": "Dein QR Code",
+  "infoLabel": "Info",
+  "versionLabel": "Version",
+  "authorLabel": "Autor",
+  "licenseLabel": "Lizenz"
+}
