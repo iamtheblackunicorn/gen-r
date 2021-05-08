@@ -56,3 +56,6 @@ GeneratedPluginRegistrant.java
 Flutter/ephemeral/
 Pods/
 xcuserdata/
+**/Flutter/ephemeral/
+**/Pods/
+**/xcuserdata/
